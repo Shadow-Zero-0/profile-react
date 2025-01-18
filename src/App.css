@@ -285,6 +285,7 @@ li a:hover {
     padding: 20px;
     height: auto;
     flex-direction: column;
+    justify-content:center;
   }
   .dadheader ul {
     padding-top: 20px;
