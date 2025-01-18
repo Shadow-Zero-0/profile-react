@@ -181,7 +181,7 @@ transform: 'translate(-50%, -50%)',
       >
         <a href="https://github.com/" target="_blank">
             <img
-          src="https://res.cloudinary.com/dtomtlfcs/image/upload/v1735551893/2_v2c6ol.png"
+          src="https://res.cloudinary.com/djqqkgwwr/image/upload/v1737161327/Github_icon-icons.com_66788_ytw579.png"
           alt="icon"
           style={{
             width: "50px", 
