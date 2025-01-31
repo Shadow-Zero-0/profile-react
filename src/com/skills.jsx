@@ -16,6 +16,10 @@ const Skills = () => {
               <img src="https://res.cloudinary.com/dtomtlfcs/image/upload/v1735949931/css_g5woe3.png" alt="" />
               CSS
             </div>
+             <div className="skills">
+              <img src="https://res.cloudinary.com/djqqkgwwr/image/upload/v1738329133/bootstrap_icon_195906_xtao5d.png" alt="" />
+              Bootstrap
+            </div>
             <div className="skills">
               <img src="https://res.cloudinary.com/dtomtlfcs/image/upload/v1735551879/javascript_q2exg2.png" alt="" />
               Javascript
