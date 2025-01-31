@@ -23,7 +23,7 @@ const Project = () => {
       title:'Admin User',
       description:'In this account you can see the details of each account and its details ID',
       tools:[
-        'html',css','bootstrap','javascript'
+        'html','css','bootstrap','javascript'
       ]
      ,github:'https://github.com/Shadow-Zero-0/bootstrap',
      live:'bootstrap-coral-delta.vercel.app'
