@@ -17,7 +17,7 @@ const Skills = () => {
               CSS
             </div>
              <div className="skills">
-              <img src="https://res.cloudinary.com/djqqkgwwr/image/upload/v1738329133/bootstrap_icon_195906_xtao5d.png" alt="" />
+              <img src="https://res.cloudinary.com/djqqkgwwr/image/upload/v1738329947/bootstrap_plain_logo_icon_146619_bivxvc.png" alt="" />
               Bootstrap
             </div>
             <div className="skills">
