@@ -25,7 +25,7 @@ const Project = () => {
       tools:[
         'html',css','bootstrap','javascript'
       ]
-     ,github:'https://github.com/Shadow-Zero-0/dashboard',
+     ,github:'https://github.com/Shadow-Zero-0/bootstrap',
      live:'bootstrap-coral-delta.vercel.app'
     },
     {
