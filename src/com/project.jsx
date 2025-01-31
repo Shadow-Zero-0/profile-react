@@ -26,7 +26,7 @@ const Project = () => {
         'html','css','bootstrap','javascript'
       ]
      ,github:'https://github.com/Shadow-Zero-0/bootstrap',
-     live:'bootstrap-coral-delta.vercel.app'
+     live:'https://bootstrap-coral-delta.vercel.app/'
     },
     {
       img:'https://res.cloudinary.com/dbf32cjv8/image/upload/v1736553810/sdfds_bfvypy.png',
