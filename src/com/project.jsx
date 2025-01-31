@@ -18,6 +18,16 @@ const Project = () => {
      ,github:'https://github.com/Shadow-Zero-0/dashboard',
      live:'https://dashboard1-ochre.vercel.app/'
     },
+      {
+      img:'https://res.cloudinary.com/djqqkgwwr/image/upload/v1738329136/Capture%D8%B3%D8%B4%D9%8A%D8%A8%D8%B4%D8%AB_ktydpe.png',
+      title:'Admin User',
+      description:'In this account you can see the details of each account and its details ID',
+      tools:[
+        'html',css','bootstrap','javascript'
+      ]
+     ,github:'https://github.com/Shadow-Zero-0/dashboard',
+     live:'bootstrap-coral-delta.vercel.app'
+    },
     {
       img:'https://res.cloudinary.com/dbf32cjv8/image/upload/v1736553810/sdfds_bfvypy.png',
       title:'E-commerce',
